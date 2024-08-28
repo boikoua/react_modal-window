@@ -1,4 +1,4 @@
-# React Counter
+# React Modal Window
 
 Modal window application.
 
